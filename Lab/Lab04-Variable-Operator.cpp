@@ -36,7 +36,7 @@ int main() {
      	printf( "Input the Employees ID(Max. 10 chars):\n " ) ;
     	scanf( "%s" , &EmployeesYourID ) ;
 
-    	printf( "Input the working hrs:\n" ) ;
+    	printf( "Input the working hrs:\n" ) ;s
     	scanf( "%d" , &Workinghours ) ;
 
     	printf( "Salary amount/hr:\n" ) ;
